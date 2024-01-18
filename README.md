@@ -8,7 +8,6 @@ Notes:
 
 Example:
 -Input
-
 March 1, 1990
 April 2, 1995
 December 13, 2003
