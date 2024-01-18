@@ -6,13 +6,13 @@ Notes:
 - Continue reading dates until -1 is entered.
 - Assume the dates entered are correctly formatted.
 
-Example:
--Input  
+Example:  
+Input  
 March 1, 1990  
 April 2, 1995  
-December 13, 2003
+December 13, 2003  
 
--Output  
+Output  
 03/01/1990  
 04/02/1995  
 12/13/2003
