@@ -1,5 +1,7 @@
 # parsing-dates-lab-template
 Parsing Dates Lab:  
+You may work with others on this lab.  
+
 Write a program that reads a date as January 18, 2024 and outputs the date formatted as MM/DD/YYYY (01/18/2024). Fix the provided functions to produce this output.
 
 Notes:
@@ -11,6 +13,7 @@ Input
 March 1, 1990  
 April 2, 1995  
 December 13, 2003  
+-1
 
 Output  
 03/01/1990  
